@@ -17,8 +17,32 @@ namespace HandyHaversacks
 
             var result = FindBagsThatFit(bags, new Bag("shiny", "gold"));
 
+            var bag = FindBag("shiny", "gold", bags);
             Console.WriteLine(result.Count());
+
+            var amount = CalculateAmountOfBagsRequiredRecursively(bags, bag);
+            Console.WriteLine("Amount of bags required {0}", amount);
+
             Console.ReadLine();
+        }
+
+        static Bag FindBag(string material, string color, List<Bag> bags)
+        {
+            return bags.FirstOrDefault(x => x.Material == material && x.Color == color);
+        }
+
+        static int CalculateAmountOfBagsRequiredRecursively(List<Bag> bags, Bag bag)
+        {
+            int count = 0;
+
+            bag.BagContent.ForEach(x =>
+            {
+                count += x.Amount;
+                var foundBag = FindBag(x.Bag.Material, x.Bag.Color, bags);
+                count += CalculateAmountOfBagsRequiredRecursively(bags, foundBag) * x.Amount;
+            });
+
+            return count;
         }
 
         static List<Bag> FindBagsThatFit(List<Bag> bags, Bag bag, List<Bag> foundBags = null)
