@@ -1,0 +1,17 @@
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.exe
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\input.txt
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.deps.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.runtimeconfig.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.runtimeconfig.dev.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\ref\HandyHaversacks.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\bin\Debug\net5.0\HandyHaversacks.pdb
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.csprojAssemblyReference.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.AssemblyInfoInputs.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.AssemblyInfo.cs
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.csproj.CoreCompileInputs.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\ref\HandyHaversacks.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.pdb
+D:\git\AdventOfCode-2020\AdventOfCode-2020\7\HandyHaversacks\HandyHaversacks\obj\Debug\net5.0\HandyHaversacks.genruntimeconfig.cache
