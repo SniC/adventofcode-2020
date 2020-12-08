@@ -1,0 +1,17 @@
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.exe
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\input.txt
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.deps.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.runtimeconfig.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.runtimeconfig.dev.json
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\ref\TobogganTrajectory.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\bin\Debug\net5.0\TobogganTrajectory.pdb
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.csprojAssemblyReference.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.AssemblyInfoInputs.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.AssemblyInfo.cs
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.csproj.CoreCompileInputs.cache
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\ref\TobogganTrajectory.dll
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.pdb
+D:\git\AdventOfCode-2020\AdventOfCode-2020\3\TobogganTrajectory\TobogganTrajectory\obj\Debug\net5.0\TobogganTrajectory.genruntimeconfig.cache
